@@ -20,7 +20,7 @@ const Aleix = {
 };
 ```
 
-<p style="text-align:justify">If you want to know if I am available, click in the Panda and let's talk. Always open to meet people or to play a game of beach volleyball!</p>
+<p style="text-align:justify">If you want to know if I am available, click in the Panda and let's talk. Always open to meet people or to play a beach volleyball match!</p>
 
 <p style="text-align:center">
 <a href="https://www.linkedin.com/in/aleix-vidal/">
