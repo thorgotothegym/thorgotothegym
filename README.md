@@ -15,8 +15,6 @@ const Aleix = {
   love: ["Technology", "tech and learn", "travel", "food", "music"],
   sports: ["Beach-Volley", "Waterpolo"],
   languages: ["Spanish", "English"],
-  challenge:
-    "I am doing NodeJS Developer! Includes Express, GraphQL, REST, MongoDB, SQL, MERN",
 };
 ```
 
