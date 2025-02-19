@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aleix Vidal!</h2>
 
-<h4>Senior Frontend Enginee and starting the Backend with NodeJs</h4>
+<h4>Senior Frontend Enginee</h4>
 
 [![Linkedin: AleixVidal](https://img.shields.io/badge/-AleixVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleix-vidal/)](https://www.linkedin.com/in/aleix-vidal/)
 
