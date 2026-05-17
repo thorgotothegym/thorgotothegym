@@ -1,3 +1,13 @@
-<h2>Hi, I'm Aleix 👋</h2> <h4>Senior Frontend Engineer based in Barcelona.</h4>
+# Hi, I'm Aleix 👋
 
-<p> I enjoy building modern React/TypeScript applications, experimenting with frontend architecture and creating products with a strong focus on UX, performance and developer experience. </p> <p> Currently exploring backend development with Python and FastAPI through personal projects and simulation systems like Conway’s Game of Life. </p> <p>Outside of coding:</p> <ul> <li>🏐 beach volleyball</li> <li>☕ coffee</li> <li>🎵 music</li> <li>💻 tech</li> <li>✈️ traveling</li> <li>🐼 pandas</li> </ul>
+Frontend engineer based in Barcelona.
+
+I work mostly with React, TypeScript and Next.js, building modern web applications with a strong focus on architecture, scalability and developer experience.
+
+I'm especially interested in frontend systems, UI consistency and making complex interfaces simpler for both users and developers.
+
+GitHub for me is a mix of side projects, experiments and things I'm currently exploring or refining.
+
+Lately I've also been spending some time learning more backend-oriented concepts with Python and FastAPI.
+
+Outside of coding, you'll probably find me doing sports, travelling, listening to music or planning the next side project I probably don't have time for 🐼
